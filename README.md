@@ -31,9 +31,10 @@ I’m a developer passionate about **AI-driven applications**, **creative coding
 
 🚧 **What I'm Working On**
 
-- Expanding backend skills to become full-stack  
-- Building SaaS platforms with subscription management and AI integration  
-- Experimenting with creative coding to push boundaries  
+- Expanding React/Next skills (~60%)  
+- Learning backend development with Node.js, Express, and MongoDB (~20%)  
+- Improving systematic analysis of projects and platforms  
+- Exploring AI-driven coding approaches and creative “vibe coding”
 
 ---
 
