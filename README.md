@@ -1,49 +1,48 @@
-# 👋 I’m Atur
+# Hi there, I'm Atur 👋
 
-I’m a developer passionate about **AI-driven applications**, **creative coding**, and building **systematic, scalable platforms**.  
-I love exploring new technologies, analyzing project structures, and finding innovative ways to connect frontend creativity with backend robustness.
-
----
-
-## 💻 Tech Stack
-
-- **Frontend**
-  - Vue/Nuxt (expert, 100%)
-  - React/Next (intermediate, ~60%)
-- **Backend**
-  - Node.js, Express, MongoDB (beginner, ~20%, actively learning)
-- **Other Interests**
-  - AI experimentation
-  - Creative “vibe coding” to spark new ideas
+[![Telegram](https://img.shields.io/badge/Telegram-@Becalm227-blue?logo=telegram)](https://t.me/Becalm227)
+![Profile Views](https://komarev.com/ghpvc/?username=Atur227&color=green)
 
 ---
 
-## 📊 Strengths
+⚡ **About Me**
 
-- Strong at **analyzing and understanding the systematic flow** of projects and platforms  
-- Focused on **scalable, auditable, and future-proof architectures**  
-- Ambitious learner, always chasing new technologies and coding approaches  
-- Balance between **technical rigor** and **creative exploration**
+I’m a developer passionate about **AI-driven applications**, **creative coding**, and building **systematic, scalable platforms**.
 
----
-
-## 🚀 Current Goals
-
-- Expand backend expertise to become fully **full-stack**  
-- Build SaaS platforms that integrate **AI, subscription management, and scalable multi-tenant systems**  
-- Continue experimenting with **creative coding** to push boundaries of user experience and platform design  
+- **Frontend**: Vue/Nuxt (expert), React/Next (intermediate)  
+- **Backend**: Node.js, Express, MongoDB (learning)  
+- **Specialty**: Analyzing project structures & designing scalable systems  
+- **Interests**: Creative “vibe coding”, AI experimentation, new technologies  
+- 🔗 Open to collaboration on SaaS platforms, AI projects, and scalable architectures  
 
 ---
 
-## 🌐 Vision
+💻 **Tech Stack**
 
-I aim to design platforms that balance **technical feasibility with business value** — systems that are not only functional but also adaptable, clear, and inspiring to work with.
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
 ---
 
-## 📫 Connect
-- Telegram: [@Becalm227](https://t.me/Becalm227)
+🚧 **What I'm Working On**
+
+- Expanding backend skills to become full-stack  
+- Building SaaS platforms with subscription management and AI integration  
+- Experimenting with creative coding to push boundaries  
+
+---
+
+📫 **Connect**
+
 - GitHub: [Atur227](https://github.com/Atur227)  
-- Email: aturarc@gmail.com 
+- Telegram: [@Becalm227](https://t.me/Becalm227)  
+- Email: aturarc@gmail.com  
+
 ---
+
 ✨ *Always curious, always building.*
